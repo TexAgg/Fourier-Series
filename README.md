@@ -1,2 +1,3 @@
 # Fourier-Series
-Usefull for calculating the Fourier Series of a function
+Calculate the Fourier Series of a function.
+Edit the code in `fun`.
